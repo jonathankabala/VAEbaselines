@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#folders to ignore
+venv/
+code/data/
+code/eval_results/
+code/results
+
+create_venv_local.sh
+
